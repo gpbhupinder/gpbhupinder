@@ -8,6 +8,7 @@ I'm a Web Developer / Electronics Engineer.
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 <br/>
 ![](https://img.shields.io/badge/Ethereum-Solidity%2c%20Web3.JS-informational?style=for-the-badge&color=blue&logo=ethereum&logoColor=white)
@@ -33,5 +34,5 @@ I'm a Web Developer / Electronics Engineer.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${gpbhupinder}.${60905045})
 
-<a href="https://app.daily.dev/gpbhupinder"><img src="https://github.com/gpbhupinder/gpbhupinder/blob/master/devcard.svg" width="400" alt="Gpbhupinder's Dev Card"/></a>
+<a href="https://app.daily.dev/gpbhupinder"><img src="https://github.com/gpbhupinder/gpbhupinder/blob/main/devcard.svg" width="400" alt="Gpbhupinder's Dev Card"/></a>
 
