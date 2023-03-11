@@ -33,5 +33,5 @@ I'm a Web Developer / Electronics Engineer.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${gpbhupinder}.${60905045})
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/gpbhupinder/gpbhupinder/blob/master/devcard.svg" width="400" alt="Gpbhupinder's Dev Card"/></a>
+<a href="https://app.daily.dev/gpbhupinder"><img src="https://github.com/gpbhupinder/gpbhupinder/blob/master/devcard.svg" width="400" alt="Gpbhupinder's Dev Card"/></a>
 
