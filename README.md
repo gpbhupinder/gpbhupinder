@@ -19,7 +19,7 @@ I'm a Web Developer / Electronics Engineer.
 
 ## 🖥️ What am I currently doing?
 
-✏️ Learning Web3 Development
+✏️ Learning Artificial intelligence
 
 ## Reach out to me:
 
@@ -32,3 +32,6 @@ I'm a Web Developer / Electronics Engineer.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpbhupinder)](https://github.com/anuraghazra/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${gpbhupinder}.${60905045})
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/gpbhupinder/gpbhupinder/blob/master/devcard.svg" width="400" alt="Gpbhupinder's Dev Card"/></a>
+
