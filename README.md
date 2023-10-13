@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236C19A1&center=true&width=500&lines=Welcome+to+Gpbhupinder's+GitHub+Profile!)
-### Hi there 👋
+### 👋
 
-I'm a Web Developer / Electronics Engineer.
+AI, Generative AI, Web Developer, Electronics Engineer, Space Nerd 🚀
 
 ## 🛠️ Tools & Technologies I use
 
