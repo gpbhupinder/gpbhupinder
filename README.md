@@ -1,4 +1,4 @@
-## Gpbhupinder: Bridging the gap between AI and Web Development
+## Gpbhupinder: 
 
 **Driven by curiosity and a passion for innovation, I explore the exciting intersection of artificial intelligence (AI) and web development.**
 
